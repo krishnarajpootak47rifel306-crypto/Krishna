@@ -1,2 +1,3 @@
-# Krishna
-this is my first Git repository
+# first-demo
+this is my first Git repository.
+Author-krishna rajpoot
